@@ -1,6 +1,6 @@
 # code the #greeting method here!
 
-puts "Please enter your name;"
+puts "Please enter your name:"
 name = gets.strip
 greeting(name)
 
