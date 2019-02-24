@@ -2,7 +2,7 @@
 
 
 
-def greeting(name)
+def greeting(name.shift)
   puts "Hello #{name}. It's nice to meet you."
 end
   
